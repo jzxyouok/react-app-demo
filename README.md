@@ -1,2 +1,6 @@
-# react-app-demo
-基于react全家桶的仿大众点评webapp！
+# kuiguo
+react仿大众点评
+
+## npm install
+## 后台数据npm  run mock
+## 开发环境 npm start
